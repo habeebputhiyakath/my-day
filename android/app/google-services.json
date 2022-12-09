@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671974837174",
+    "project_id": "nope-45b11",
+    "storage_bucket": "nope-45b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671974837174:android:007827b960bac0c21d0f17",
+        "android_client_info": {
+          "package_name": "com.example.day_night"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671974837174-49i4u0esavjcl8nfr3o13t9pcto7j5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9lVva_O-MUStQguFEN6-nwHY3Vafpf4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671974837174-49i4u0esavjcl8nfr3o13t9pcto7j5og.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671974837174-gs44uj1dpspgn6lijimt17aj6ua6fdms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dayNight"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
